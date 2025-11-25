@@ -52,10 +52,10 @@ Projet éducatif sous la supervision du FISTO Club IT FSO.
 
 ## 👤 Vos Contact
 
-- **NOM COMPLET**: ...
-- **AGE**: ...
-- **Discord ID**: ...
-- **Établissement**: ...
+- **NOM COMPLET**: Mohammed Fizazi	
+- **AGE**: 17
+- **Discord ID**: cupman9624
+- **Établissement**: Faculte de science oujda
 
 ---
 
