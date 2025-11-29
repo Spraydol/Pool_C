@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(void) {
+ {
     int n, i, somme = 0;
 
     printf("Entrer un entier n : ");
